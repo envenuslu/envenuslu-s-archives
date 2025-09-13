@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    color: black;
+    font-family: "tahoma", Sans-serif;
+    padding: 40px;
+}
+
+.box {
+    width: 850px;
+    height: 710px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 12% 1fr 0%;
+}
+
+.bg{
+    grid-column: span 2;
+    text-align-last: center;
+}
+
+.nav{
+    margin-right: 10px;
+}
+
+.window{
+    background-color: #fff;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #ffffff;
+}
+
+.fart {
+    margin-top: 45px;
+}
+
+.butt {
+    filter: contrast(100%) brightness(100%);
+}
+
+.butt:hover {
+    animation: flicker 1s step-start infinite;
+    scale: 103%;
+}
+
+@keyframes flicker {
+    50% {
+        filter: contrast(50%) brightness(150%);
+    }
+    0% {
+        filter: contrast(100%) brightness(100%);
+    }
+}
