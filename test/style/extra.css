@@ -123,7 +123,7 @@
 	outline: none;
     filter: drop-shadow(rgba(0, 0, 0, 0.4) 1px 1px 2px);
     background-color: #fff;
-    background-image: url("../images/poop.png");
+    background-image: url("../Images/poop.png");
     background-repeat: repeat-x;
     background-position-y: bottom;
     background-size: contain;
@@ -145,7 +145,7 @@
 	outline: none;
     filter: drop-shadow(rgba(0, 0, 0, 0.4) 1px 1px 2px);
     background-color: #fff;
-    background-image: url("../images/poop.png");
+    background-image: url("../Images/poop.png");
     background-repeat: repeat-x;
     background-position-y: bottom;
     background-size: contain;
@@ -160,7 +160,7 @@
 	outline: none;
     filter: drop-shadow(rgba(0, 0, 0, 0.4) 1px 1px 2px);
     background-color: #fff;
-    background-image: url("../images/poop.png");
+    background-image: url("../Images/poop.png");
     background-repeat: repeat-x;
     background-position-y: bottom;
     background-size: contain;
