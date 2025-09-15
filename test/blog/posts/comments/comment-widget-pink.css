@@ -129,9 +129,10 @@
     background-size: contain;
 }
 .c-textInput {
-    width: 100%;
+    width: 95%;
     max-width: 900px;
     resize: none;
+    margin: 10px;
 }
 #c_submitButton {display: block;}
 
