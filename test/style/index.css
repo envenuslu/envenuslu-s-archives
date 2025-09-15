@@ -39,6 +39,12 @@ body {
     padding: 30px;
 }
 
+@media screen and (max-width: 500px) {
+    .bigbox {
+    padding: 20px;
+}
+}
+
 .gradientbutt {
     color: #fff;
     background-image: linear-gradient(#ff5c9d, #ff0059, #a8004f);
@@ -70,6 +76,7 @@ body {
     border-width: medium;
     border-color: #000;
     text-shadow: rgba(0, 0, 0, 0.8) 1px 1px 2px;
+    text-align: center
 }
 
 @media screen and (max-width: 770px) {
