@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="209"
+   height="209"
+   id="svg5"
+   sodipodi:docname="pattern.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.0454545"
+     inkscape:cx="55.977779"
+     inkscape:cy="122.46667"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     d="M0 0 C9.24 0 18.48 0 28 0 C28 8.58 28 17.16 28 26 C36.58 26 45.16 26 54 26 C54 35.57 54 45.14 54 55 C45.42 55 36.84 55 28 55 C28 63.58 28 72.16 28 81 C18.76 81 9.52 81 0 81 C0 72.42 0 63.84 0 55 C-8.58 55 -17.16 55 -26 55 C-26 45.43 -26 35.86 -26 26 C-17.42 26 -8.84 26 0 26 C0 17.42 0 8.84 0 0 Z "
+     fill="#000000"
+     transform="translate(90,64)"
+     id="path1"
+     style="fill:#fbffcc;fill-opacity:0.64999998" />
+  <path
+     d="M0 0 C4.62 0 9.24 0 14 0 C14 13.2 14 26.4 14 40 C0.8 40 -12.4 40 -26 40 C-26 35.38 -26 30.76 -26 26 C-17.42 26 -8.84 26 0 26 C0 17.42 0 8.84 0 0 Z "
+     fill="#000000"
+     transform="translate(195,169)"
+     id="path2"
+     style="fill:#fbffcc;fill-opacity:0.64999998" />
+  <path
+     d="M0 0 C4.62 0 9.24 0 14 0 C14 8.58 14 17.16 14 26 C22.58 26 31.16 26 40 26 C40 30.62 40 35.24 40 40 C26.8 40 13.6 40 0 40 C0 26.8 0 13.6 0 0 Z "
+     fill="#000000"
+     transform="translate(0,169)"
+     id="path3"
+     style="fill:#fbffcc;fill-opacity:0.64999998" />
+  <path
+     d="M0 0 C13.2 0 26.4 0 40 0 C40 13.2 40 26.4 40 40 C35.38 40 30.76 40 26 40 C26 31.42 26 22.84 26 14 C17.42 14 8.84 14 0 14 C0 9.38 0 4.76 0 0 Z "
+     fill="#000000"
+     transform="translate(169,0)"
+     id="path4"
+     style="fill:#fbffcc;fill-opacity:0.64999998" />
+  <path
+     d="M0 0 C13.2 0 26.4 0 40 0 C40 4.62 40 9.24 40 14 C31.42 14 22.84 14 14 14 C14 22.58 14 31.16 14 40 C9.38 40 4.76 40 0 40 C0 26.8 0 13.6 0 0 Z "
+     fill="#000000"
+     transform="translate(0,0)"
+     id="path5"
+     style="fill:#fbffcc;fill-opacity:0.64999998" />
+</svg>

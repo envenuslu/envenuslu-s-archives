@@ -1,0 +1,153 @@
+body {
+    background-image: url("../img/pattern.svg");
+    background: linear-gradient(180deg, #ff8356, #910000, #3c0017);
+    background-attachment: fixed;
+    color: black;
+    font-family: 'ms gothic', "tahoma", Sans-serif;
+    text-shadow: rgba(0, 0, 0, 0.15) 1px 1px 1px;
+}
+
+.layer {
+    background: url("../img/pattern.webp");
+    background-attachment: fixed;
+    padding: 25px;
+    background-size: 87px;
+    background-blend-mode: overlay;
+    background-position-x: center;
+}
+
+.layer2 {
+    background: url("../img/pattern2.webp");
+}
+
+@media screen and (max-width: 500px) {
+    layer {
+        padding: 15px;
+    }
+}
+
+.box {
+    background-image: linear-gradient(180deg, #ffffffe3 0%, #e4e4f2c9 100%);
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.2) 2px 2px 2px);
+    border: solid;
+    border-width: 5px;
+    border-color: #106f98;
+}
+
+.title {
+    font-size: 2.5em;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: auto;
+    padding: 30;
+    -webkit-text-stroke: thin #fff;
+    text-shadow: rgba(0, 0, 0, 0.5) 2px 2px 2px;
+}
+
+a.copyright:link {
+    text-decoration: none;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0,1) 0 0 5px;
+}
+
+a.copyright:visited {
+    color: #fff;
+}
+
+a.copyright:hover {
+    color: #fff;
+}
+
+a.copyright:active {
+    color: #fff;
+}
+
+a.copyright:focus {
+    color: #fff;
+}
+
+.Sitebutts {
+    color: #000;
+    background-image: linear-gradient(180deg, #adfffb, #23ccd3 50%, #1c8fc0 50%, #23ccd3);
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: solid;
+    border-color: #106f98;
+    margin: 0% 2.5px;
+    width: 100%;
+    text-shadow: rgba(0, 0, 0, 0.15) 1px 1px 1px;
+    text-align: center;
+    filter: drop-shadow(rgba(0, 0, 0, 0.5) 2px 2px 2px);
+}
+
+@media screen and (max-width: 770px) {
+    .Sitebutts {
+    padding: 15px;
+    margin: 2.5px 0%;
+    font-size: 20px;
+}
+}
+
+.Sitebutts:hover {
+    background-image: linear-gradient(180deg, #fff, #adfffb 50%, #23ccd3 50%, #adfffb);
+    border-color: #adfffb;
+}
+
+#backToTop {
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    cursor: pointer;
+    color: #000;
+    background-image: linear-gradient(180deg, #adfffb, #23ccd3 50%, #1c8fc0 50%, #23ccd3);
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: solid;
+    border-color: #106f98;
+    text-shadow: rgba(0, 0, 0, 0.8) 1px 1px 2px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.5) 3px 3px 5px);
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#backToTop:hover {
+    background-image: linear-gradient(180deg, #fff, #adfffb 50%, #23ccd3 50%, #adfffb);
+}
+
+@media screen and (max-width: 770px) {
+    #backToTop:hover {
+    background-image: linear-gradient(#adfffb, #23ccd3, #106f98);
+}
+}
+
+hr {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #000;
+}
+
+.imagegrid {
+    object-fit: cover;
+    object-position: center;
+    border-radius: 5px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.5) 2px 2px 2px);
+}
+
+.boxes {
+    color: #000;
+    background-image: linear-gradient(180deg, #adfffb, #23ccd3, #106f98);
+    padding: 15px;
+    width: 100%;
+    text-shadow: rgba(0, 0, 0, 0.15) 1px 1px 1px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.5) 2px 2px 2px);
+    border-radius: 5px;
+    border: solid;
+    border-color: #106f98;
+}
